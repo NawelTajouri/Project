@@ -1,0 +1,23 @@
+.body{
+background-image:url(https://wallpaperaccess.com/full/185289.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+height: 1000px;
+}
+h1{
+    font-family:Baskerville,Times,'Times New Roman',serif;
+ font-size:75px;
+ color:#589017;
+ font-variant:small-caps;
+ text-align:center;
+ font-weight:bold;
+ padding:15px 0px 15px 0px; /* Tweak this to your liking */
+ margin-top: 100px;
+}
+p{
+    font-family:'Helvetica Neue',Arial,sans-serif;font-size:15px;
+ font-weight:bold;
+ margin:10px 0px 10px 20px; /* Tweak this to your liking (also add padding) */
+ letter-spacing:3px;
+ text-align: center;
+}

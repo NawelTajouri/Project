@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dancing+Script&family=Praise&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Dancing+Script&family=Pacifico&family=Praise&display=swap');
+body{
+    background-image: url(https://assets.wallpaperbison.com/preview/photography/aerial-wallpapers/500-view-of-the-landscape-from-a-airplane-window-hd-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.form {
+  
+    display: flex;
+   margin-left: 30%;
+   margin-top: 10%;
+   
+}
+.form h4{
+    margin-top: 20px;
+    width: 300px;
+    margin-left:150px;
+    color:white;
+    font-family: 'Pacifico', cursive;
+   
+}
+.form p{
+    
+    margin-left:20px;
+    margin-top: 20px;
+    color:white;
+    font-weight: bolder;
+    font-size:larger;
+    font-family: 'Dancing Script', cursive;
+    letter-spacing: 5px;
+
+    
+}
+.form h5{
+    
+    margin-top: 150px;
+    width: 200px;
+    margin-left:50px;
+    color:rgb(230, 123, 123);
+    font-family: 'Pacifico', cursive;
+
+    
+}
+.form .SignUp{
+    margin-left: 20px;
+}
+
+.login-button{
+    margin-left:50px;
+    opacity: .5;
+}
+.login-button button{
+    border-radius: 20px;
+    border-color: seashell;
+    
+}
